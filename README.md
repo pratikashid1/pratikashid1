@@ -21,11 +21,6 @@ I'm a **Computer Engineering student** and an aspiring **Java Backend Engineer**
 
 I enjoy building scalable backend applications, solving Data Structures & Algorithms problems, and learning System Design. I'm passionate about writing clean, maintainable code and continuously improving my software engineering skills.
 
-Currently, I'm focused on becoming a professional backend developer while exploring AI automation, cloud technologies, and modern software architecture.
-* GitHub: https://github.com/pratik-kashid
-* LinkedIn: *(Add your LinkedIn profile)*
-* Email: *(Add your email address)*
-
 ---
 
 > *"Learning every day. Building software that solves real-world problems."* 🚀
