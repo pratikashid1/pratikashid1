@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Pratik 👋
 
-I'm a **Computer Engineering student** and an aspiring **Java Backend Engineer** from India 🇮🇳.
-
-I enjoy building scalable backend applications, solving Data Structures & Algorithms problems, and learning System Design. I'm passionate about writing clean, maintainable code and continuously improving my software engineering skills.
+I am a passionate computer engineering student with a strong interest in building scalable backend systems and designing efficient architectures. I enjoy solving real-world problems through clean code and optimized system design. I am also exploring AI and trading with a data-driven approach.
 
 ---
 
