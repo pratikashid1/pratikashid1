@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Pratik Kashid 👋
+# Hi, I'm Pratik 👋
 
 I'm a **Computer Engineering student** and an aspiring **Java Backend Engineer** from India 🇮🇳.
 
