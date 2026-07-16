@@ -21,4 +21,4 @@ I am a passionate computer engineering student with a strong interest in buildin
 
 ---
 
-> *"Learning every day. Building software that solves real-world problems."* 🚀
+> *"Learning every day. Building software that solves problems."* 🚀
